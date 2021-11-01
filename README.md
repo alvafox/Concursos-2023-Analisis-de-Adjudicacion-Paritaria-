@@ -1,6 +1,6 @@
 Iniciandome en git hub.
 
-Ingeniero comercial, interesado en Python y R.
+Ingeniero Comercial en Economía, interesado en Python y R.
 
 
 <!---
