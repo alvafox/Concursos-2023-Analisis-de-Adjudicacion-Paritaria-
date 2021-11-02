@@ -1,7 +1,6 @@
-Iniciandome en git hub.
-
 Ingeniero Comercial en Economía, interesado en Python y R.
 
+Iniciandome en git hub.
 
 <!---
 alvafox/alvafox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
