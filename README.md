@@ -1,8 +1,3 @@
-Ingeniero Comercial en Economía, interesado en Python y R.
+# Analisis de adjudicacion paritaria (Doctorado Nacional 2023)
 
-Iniciandome en GitHub.
-
-<!---
-alvafox/alvafox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Analisis estadìstico-descriptivo de la adjudicación de Doctorado Nacional - Año Académico 2023.
